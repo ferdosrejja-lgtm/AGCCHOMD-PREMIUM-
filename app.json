@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Agcchomd",
+    "slug": "agcchomd-premium",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#090D1D"
+    },
+    "android": {
+      "package": "com.agcchomd.premium",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#090D1D"
+      }
+    }
+  }
+}
